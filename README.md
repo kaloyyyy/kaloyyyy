@@ -1,6 +1,6 @@
 # Prince John Carlo Austria
 
-**Software Engineer | Full-Stack Developer | Data Analytics Enthusiast**
+**Software Engineer | Full-Stack Developer | Data Analyst**
 
 Welcome to my GitHub profile! I'm a dedicated and innovative software engineer with experience in developing scalable web applications, crafting intuitive UI/UX designs, and delivering accurate, insightful data reports. I take pride in creating tailored systems that solve real-world problems efficiently and effectively.
 
@@ -27,19 +27,19 @@ Welcome to my GitHub profile! I'm a dedicated and innovative software engineer w
 ---
 
 ## 🛠️ Notable Projects
-### 🗓️ [Timetabling Algorithm Optimization](https://github.com/kaloyyyy/timetabling-genetic-algorithm)
+### 🗓️ [Timetabling Algorithm Optimization](https://github.com/kaloyyyy/AtSkhed)
 - **Tech Stack**: Python, Django, React, Tailwind CSS, SQLite
 - **Highlights**:
   - Developed a web app for scheduling optimization using Genetic and A*-star algorithms.
   - Reduced scheduling tasks from several days to under 10 minutes.
 
-### 🛒 [Order Management System](https://github.com/kaloyyyy/order-management-system)
+### 🛒 Order Management System
 - **Tech Stack**: PHP, Laravel, MySQL, Bootstrap
 - **Highlights**:
   - Designed a responsive system for processing and tracking orders.
   - Integrated analytics for tracking sales trends.
 
-### 📊 [KomiSion Freelancer Platform](https://github.com/kaloyyyy/komision)
+### 📊 KomiSion Freelancer Platform
 - **Tech Stack**: TypeScript, Next.js, PostgreSQL, Tailwind CSS
 - **Highlights**:
   - Built a platform similar to Fiverr, complete with an analytics module.
