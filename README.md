@@ -8,7 +8,9 @@ Welcome to my GitHub profile! I'm a dedicated and innovative software engineer w
 
 ## 👨‍💻 About Me
 - **Education**: Bachelor of Science in Computer Science, Ateneo de Zamboanga University (GPA: 3.21)
-- **Certifications**: TOPCIT Level 2, Introduction to CyberSecurity (CISCO)
+- **Certifications**:
+  - TOPCIT Level 2
+  - Introduction to CyberSecurity (CISCO)
 - **Awards**: 
   - Best Thesis Presenter, Ateneo Computing && Animation Festival 2024
   - Finalist, UP Diliman ACM - Algolympics 2023
