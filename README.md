@@ -35,17 +35,6 @@ Welcome to my GitHub profile! I'm a dedicated and innovative software engineer w
   - Developed a web app for scheduling optimization using Genetic and A*-star algorithms.
   - Reduced scheduling tasks from several days to under 10 minutes.
 
-### 🛒 Order Management System
-- **Tech Stack**: PHP, Laravel, MySQL, Bootstrap
-- **Highlights**:
-  - Designed a responsive system for processing and tracking orders.
-  - Integrated analytics for tracking sales trends.
-
-### 📊 KomiSion Freelancer Platform
-- **Tech Stack**: TypeScript, Next.js, PostgreSQL, Tailwind CSS
-- **Highlights**:
-  - Built a platform similar to Fiverr, complete with an analytics module.
-  - Supported high-volume user and post management with efficient SSR.
 
 ---
 
