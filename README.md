@@ -1,6 +1,5 @@
 # Prince John Carlo Austria  
-*Software Engineer | Full-Stack Developer | Data Analyst*
-
+*Software Engineer*
 ---
 
 ## 🚀 About Me
